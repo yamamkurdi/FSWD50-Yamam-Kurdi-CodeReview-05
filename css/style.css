@@ -12,7 +12,15 @@
 #content{
 	background:#171E24 ;
 	color: white;
+	
 
+}
+
+#disc{
+	font-size: 1em;
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 #footer{
@@ -22,7 +30,7 @@
 }
 
 #left{
-	width: 250px;
+	width: 50%;
 	height: 350px;
 	border-radius: 10px;
 }
@@ -43,7 +51,9 @@
 	align-items: center;
 	margin-right: auto;
 	margin-left: auto;
-}
+	width: 50%;
+	
+		}
 
 #amout{
 	display: flex;

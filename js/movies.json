@@ -1,52 +1,52 @@
 var Movies=[{
-	"img":"img/Venom (2018).jpg",
+	"img":"img/Stavisky.jpg",
 	"name":"Venom (2018)",
-	"description":"hashsahsa",
+	"description":"Irrestisible charm and talent helps Serge Alexandre alias Stavisky, small-time swindler, to make friends with even most influential members of French industrial and political elite during the early 30s",
 	"likes":150
 },{
-	"img":"img/Venom (2018).jpg",
-	"name":"Venom (2018)",
-	"description":"hashsahsa",
+	"img":"img/Shine.jpg",
+	"name":"Shine",
+	"description":"Two Puerto Rican brothers from New York's Spanish Harlem and the street's best Salsa dancers, are separated after a tragedy only to reunite years later on opposing sides of gentrification.",
 	"likes":250
 },{
-	"img":"img/Venom (2018).jpg",
-	"name":"Venom (2018)",
-	"description":"hashsahsa",
+	"img":"img/Over the Limit.jpg",
+	"name":"Over the Limit",
+	"description":"An intimate portrait of the world's most outstanding rhythmic gymnast Margarita Mamun, the main representative of the prestigious Russian National Team. ",
+	"likes":150
+},{
+	"img":"img/A Star Is Born.jpg",
+	"name":"A Star Is Born",
+	"description":"Starr Carter is constantly switching between two worlds: the poor, mostly black, neighborhood where she lives and the rich, mostly white,",
+	"likes":150
+},{
+	"img":"img/Loving Pablo.jpg",
+	"name":"Loving Pablo",
+	"description":"In 1981, Virginia Vallejo is a famous Colombia's journalist and TV news anchorwoman who is invited to a VIPs party in the ranch of Pablo Escobar,",
+	"likes":150
+},{
+	"img":"img/Studio 54.jpg",
+	"name":"Studio 54",
+	"description":"Studio 54 was the epicenter of 70s hedonism--a place that not only redefined the nightclub, but also came to symbolize an entire era. Its co-owners, Ian Schrager and Steve Rubell",
+	"likes":150
+},{
+	"img":"img/The Happy Prince.jpg",
+	"name":"The Happy Prince",
+	"description":"Turo (25) is trying to overcome his fears by leading the most unknown heavy metal band in Finland, Impaled Rektum",
+	"likes":150
+},{
+	"img":"img/Hevi reissu.jpg",
+	"name":"The Hate U Give",
+	"description":"In a cheap Parisian hotel room Oscar Wilde lies on his death bed. The past floods back, taking him to other times and places. Was he once the most famous man in London?",
 	"likes":150
 },{
 	"img":"img/Venom (2018).jpg",
 	"name":"Venom (2018)",
-	"description":"hashsahsa",
+	"description":"When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego Venom to save his life.",
 	"likes":150
 },{
-	"img":"img/Venom (2018).jpg",
-	"name":"Venom (2018)",
-	"description":"hashsahsa",
-	"likes":150
-},{
-	"img":"img/Venom (2018).jpg",
-	"name":"Venom (2018)",
-	"description":"hashsahsa",
-	"likes":150
-},{
-	"img":"img/Venom (2018).jpg",
-	"name":"Venom (2018)",
-	"description":"hashsahsa",
-	"likes":150
-},{
-	"img":"img/Venom (2018).jpg",
-	"name":"Venom (2018)",
-	"description":"hashsahsa",
-	"likes":150
-},{
-	"img":"img/Venom (2018).jpg",
-	"name":"Venom (2018)",
-	"description":"hashsahsa",
-	"likes":150
-},{
-	"img":"img/Venom (2018).jpg",
-	"name":"Venom (2018)",
-	"description":"hashsahsa",
+	"img":"img/The Hate U Give.jpg",
+	"name":"The Hate U Give",
+	"description":"Seasoned musician Jackson Maine (Bradley Cooper) discovers-and falls in love with-struggling artist Ally (Gaga). She has just about given up on her dream to make it big as a singer",
 	"likes":150
 }];
 
