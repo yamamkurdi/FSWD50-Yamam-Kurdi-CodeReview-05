@@ -1,0 +1,57 @@
+var Movies=[{
+	"img":"img/Venom (2018).jpg",
+	"name":"Venom (2018)",
+	"description":"hashsahsa",
+	"likes":150
+},{
+	"img":"img/Venom (2018).jpg",
+	"name":"Venom (2018)",
+	"description":"hashsahsa",
+	"likes":250
+},{
+	"img":"img/Venom (2018).jpg",
+	"name":"Venom (2018)",
+	"description":"hashsahsa",
+	"likes":150
+},{
+	"img":"img/Venom (2018).jpg",
+	"name":"Venom (2018)",
+	"description":"hashsahsa",
+	"likes":150
+},{
+	"img":"img/Venom (2018).jpg",
+	"name":"Venom (2018)",
+	"description":"hashsahsa",
+	"likes":150
+},{
+	"img":"img/Venom (2018).jpg",
+	"name":"Venom (2018)",
+	"description":"hashsahsa",
+	"likes":150
+},{
+	"img":"img/Venom (2018).jpg",
+	"name":"Venom (2018)",
+	"description":"hashsahsa",
+	"likes":150
+},{
+	"img":"img/Venom (2018).jpg",
+	"name":"Venom (2018)",
+	"description":"hashsahsa",
+	"likes":150
+},{
+	"img":"img/Venom (2018).jpg",
+	"name":"Venom (2018)",
+	"description":"hashsahsa",
+	"likes":150
+},{
+	"img":"img/Venom (2018).jpg",
+	"name":"Venom (2018)",
+	"description":"hashsahsa",
+	"likes":150
+}];
+
+
+
+
+
+
